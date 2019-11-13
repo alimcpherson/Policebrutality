@@ -1,0 +1,30 @@
+.container{
+  display: block;
+  width: 860px;
+  margin: 0 auto;
+}
+
+.caption{
+  font-size: 12px;
+  margin-top: -4px;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+h2{
+  font-size: 17px;
+}
+
+.policechart{
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+
+p{
+  line-height: 1.5;
+}
+
+img{
+  width: 100%;
+}
